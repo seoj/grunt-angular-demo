@@ -7,18 +7,18 @@ This project showcases a minimal grunt configuration which can be used with an A
 
 ## Installing
 
-> git clone
-> npm install
+    https://github.com/seoj/grunt-angular-demo.git
+    npm install
 
 ## Running tests and generating code coverage
 
-> npm run test
+    npm run test
 
 The JUnit report and coverage report will be under /build/test
 
 ## Minifying the source
 
-> npm run build
+    npm run build
 
 The minified resources will be genereated under /build/dist/
 
