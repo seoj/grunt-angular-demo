@@ -1,0 +1,16 @@
+html {
+   font: 10pt arial;
+}
+
+body {
+   width: 800px;
+   margin: auto;
+}
+
+.success {
+   color: green;
+}
+
+.error {
+   color: red;
+}
