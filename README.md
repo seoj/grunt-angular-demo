@@ -7,7 +7,7 @@ This project showcases a minimal grunt configuration which can be used with an A
 
 ## Installing
 
-    https://github.com/seoj/grunt-angular-demo.git
+    git clone https://github.com/seoj/grunt-angular-demo.git
     npm install
 
 ## Running tests and generating code coverage
